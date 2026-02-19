@@ -1,0 +1,13 @@
+﻿  MainCode.cpp
+  SceneManager.cpp
+C:\Users\derpjosh\Documents\CS330Content\Projects\7-1_FinalProjectMilestones5-3\Source\SceneManager.cpp(230,16): warning C4018: '<': signed/unsigned mismatch
+  ViewManager.cpp
+C:\Users\derpjosh\Documents\CS330Content\Projects\7-1_FinalProjectMilestones5-3\Source\ViewManager.cpp(159,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\derpjosh\Documents\CS330Content\Projects\7-1_FinalProjectMilestones5-3\Source\ViewManager.cpp(160,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\derpjosh\Documents\CS330Content\Projects\7-1_FinalProjectMilestones5-3\Source\ViewManager.cpp(164,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\derpjosh\Documents\CS330Content\Projects\7-1_FinalProjectMilestones5-3\Source\ViewManager.cpp(165,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\derpjosh\Documents\CS330Content\Projects\7-1_FinalProjectMilestones5-3\Source\ViewManager.cpp(167,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\derpjosh\Documents\CS330Content\Projects\7-1_FinalProjectMilestones5-3\Source\ViewManager.cpp(168,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\derpjosh\Documents\CS330Content\Projects\7-1_FinalProjectMilestones5-3\Source\ViewManager.cpp(305,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\derpjosh\Documents\CS330Content\Projects\7-1_FinalProjectMilestones5-3\Debug\7-1_FinalProjectMilestones.exe
